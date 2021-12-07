@@ -25,9 +25,7 @@ Este es el repositorio para los materiales de recursos de clases del grupo 1 de 
 
 1. Eveling Vasquez
 2. Joshué Ruiz
-
-
-Algo inserteaqui
+3. Lisbeth Alvarado
 ## Info adicional
 <notas de clase>
   
