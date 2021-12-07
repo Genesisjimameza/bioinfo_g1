@@ -27,9 +27,12 @@ Este es el repositorio para los materiales de recursos de clases del grupo 1 de 
 2. Joshué Ruiz
 
 
+Algo inserteaqui
 ## Info adicional
 <notas de clase>
   
   
   @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+  
+
   
